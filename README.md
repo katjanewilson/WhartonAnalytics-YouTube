@@ -6,7 +6,7 @@ Trending videos on YouTube do not simply increase viewership, they also inspire 
 ## Table of Contents
 
 <p align="center">
-<img src="https://github.com/katjanewilson/CORD-Random-Forest/blob/master/images/covid.png"
+<img src="https://github.com/katjanewilson/CORD-Random-Forest/blob/master/images/youtube.png"
   alt="Size Limit comment in pull request about bundle size changes"
   width="686" height="289">
 </p>
