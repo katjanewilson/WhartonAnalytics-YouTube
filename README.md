@@ -6,14 +6,6 @@ Central to the debate of ethical algorithm design is a consideration of mis-clas
 ## Table of Contents
 
 <p align="center">
-<img src="https://github.com/katjanewilson/CORD-Random-Forest/blob/master/images/covid.png"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
-</p>
-
-## Table of Contents
-
-<p align="center">
 <img src="https://github.com/katjanewilson/WhartonAnalytics-YouTube/blob/master/images/youtube_logo.png"
   alt="Size Limit comment in pull request about bundle size changes"
   width="686" height="289">
@@ -48,3 +40,19 @@ Add
 
 ## Evaluation
 
+## Sample
+
+<p align="center">
+<img src="https://github.com/katjanewilson/WhartonAnalytics-YouTube/blob/master/images/slide1.png"
+  alt="Size Limit comment in pull request about bundle size changes"
+  width="686" height="289">
+</p>
+
+
+## Table of Contents
+
+<p align="center">
+<img src="https://github.com/katjanewilson/WhartonAnalytics-YouTube/blob/master/images/slide2.png"
+  alt="Size Limit comment in pull request about bundle size changes"
+  width="686" height="289">
+</p>
