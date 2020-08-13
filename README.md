@@ -39,14 +39,7 @@ d
 ## Evaluation
 
 <p align="center">
-<img src="https://github.com/katjanewilson/CORD-Random-Forest/blob/master/images/confusion_table1.png"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="400" height="200">
-</p>
-
-
-<p align="center">
-<img src="https://github.com/katjanewilson/CORD-Random-Forest/blob/master/images/confusion_table2.png"
+<img src="https://github.com/katjanewilson/CORD-Random-Forest/blob/master/images/youtube.png"
   alt="Size Limit comment in pull request about bundle size changes"
   width="400" height="200">
 </p>
