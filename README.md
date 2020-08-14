@@ -25,11 +25,11 @@ Add
 
 ## How It Works
 
-1. add
+1. 
 
-2.add
+2.
 
-3. add
+3.
 
 ## Evaluation
 
