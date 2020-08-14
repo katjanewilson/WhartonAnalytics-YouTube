@@ -22,13 +22,6 @@ Add
 * [Tidyverse](https://cran.r-project.org/web/packages/tidyverse/tidyverse.pdf)
 * [ClusterR](https://cran.r-project.org/web/packages/ClusterR/ClusterR.pdf)
 
-## How It Works
-
-1. 
-
-2.
-
-3.
 
 ## Evaluation
 
