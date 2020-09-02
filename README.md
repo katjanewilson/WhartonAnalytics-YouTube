@@ -6,7 +6,7 @@ Trending videos on YouTube do not simply increase viewership, they also inspire 
 <p align="center">
 <img src="https://github.com/katjanewilson/WhartonAnalytics-YouTube/blob/master/images/youtube_logo.png"
   alt="Size Limit comment in pull request about bundle size changes"
-  width="400" height="200">
+  width="200" height="100">
 </p>
 
 ## Data
